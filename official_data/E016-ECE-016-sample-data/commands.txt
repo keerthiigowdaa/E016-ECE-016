@@ -1,0 +1,11 @@
+# ECE-016 command file - load masters and readings, run QA, then daily summaries and district alerts
+LOAD_STATIONS|stations.csv
+LOAD_RANGES|sensor_ranges.csv
+LOAD_READINGS|readings.csv
+RUN_QA
+DAILY_SUMMARY|2026-10-05
+DAILY_SUMMARY|2026-10-06
+DAILY_SUMMARY|2026-10-07
+DISTRICT_ALERTS|2026-10-05
+DISTRICT_ALERTS|2026-10-06
+DISTRICT_ALERTS|2026-10-07

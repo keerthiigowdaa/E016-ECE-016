@@ -1,0 +1,13 @@
+station_id,timestamp,sensor,value
+ST001,2026-11-10 09:00,temperature,28
+ST001,2026-11-10 09:00,humidity,65
+ST001,2026-11-10 09:00,rainfall,2.5
+ST001,2026-11-10 09:15,temperature,29
+ST001,2026-11-10 09:15,humidity,66
+ST001,2026-11-10 09:15,rainfall,3
+ST001,2026-11-10 09:30,temperature,30
+ST001,2026-11-10 09:30,humidity,67
+ST001,2026-11-10 09:30,rainfall,4
+ST002,2026-11-10 09:00,temperature,27
+ST002,2026-11-10 09:00,humidity,70
+ST002,2026-11-10 09:00,rainfall,5

@@ -1,0 +1,7 @@
+Rejected duplicate: ('AWS-06', '2026-10-05 14:30:00', 'TEMP')
+Rejected out-of-range reading: ('AWS-06', '2026-10-06 08:00:00', 'HUMIDITY')
+Rejected duplicate: ('AWS-07', '2026-10-06 10:00:00', 'HUMIDITY')
+Rejected duplicate: ('AWS-07', '2026-10-07 10:45:00', 'RAIN')
+Rejected out-of-range reading: ('AWS-05', '2026-10-07 12:15:00', 'TEMP')
+Rejected out-of-range reading: ('AWS-05', '2026-10-07 17:45:00', 'RAIN')
+Spike rejected: {'station_id': 'AWS-05', 'timestamp': '2026-10-05 12:30:00', 'sensor': 'TEMP', 'value': 36.2}

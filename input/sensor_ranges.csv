@@ -1,0 +1,4 @@
+sensor,unit,min_value,max_value
+TEMP,degC,-10.0,50.0
+HUMIDITY,pct,0.0,100.0
+RAIN,mm_per_15min,0.0,100.0

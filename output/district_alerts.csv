@@ -1,0 +1,10 @@
+date,district,alert_level,max_station_id,max_rainfall_mm
+2026-10-05,Dakshina Kannada,NONE,AWS-01,10.4
+2026-10-05,Kodagu,NONE,AWS-08,11.2
+2026-10-05,Udupi,EXTREMELY_HEAVY,AWS-04,207.1
+2026-10-06,Dakshina Kannada,HEAVY,AWS-02,81.3
+2026-10-06,Kodagu,HEAVY,AWS-08,115.5
+2026-10-06,Udupi,VERY_HEAVY,AWS-06,131.7
+2026-10-07,Dakshina Kannada,NONE,AWS-01,0.0
+2026-10-07,Kodagu,NONE,AWS-07,0.0
+2026-10-07,Udupi,NONE,AWS-06,3.3
